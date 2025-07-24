@@ -25,7 +25,7 @@ class AppColors {
 
   // Gradient Colors
   static const List<Color> primaryGradient = [
-    Color(0xFF6C63FF),
+    Color(0xFF6C63FF), // Modern Purple
     Color(0xFF7E76FF),
   ];
 }
